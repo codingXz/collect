@@ -1,0 +1,3 @@
+【redis】的常用客户的使用；
+1.redis操作scan方法进行对应key值的遍历和操作
+2.配置jedis
